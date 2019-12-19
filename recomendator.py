@@ -48,7 +48,15 @@ def recomender(vectors,names,path):
     s = "/"
     filename = re.findall("[\w\/\.\_\d]+",filename)
     filename = './data/'+s.join(filename)
-    print(filename)
+    #filename = s.join(filename)
+    #print(filename)
     
     #image = Image.open('{}'.format(filename))
     return webbrowser.open(filename)
+    #return filename 
+
+def clarator():
+    return "static/celia2.jpg"
+def demonator():
+    #return webbrowser.open("./data/fidel1.jpg")
+    return "static/fidel1.jpg"
