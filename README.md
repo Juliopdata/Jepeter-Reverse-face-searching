@@ -1,7 +1,7 @@
 # <p align="center"> Jepeter </p>
 
 
-  <p align="center"> <img  src="https://github.com/Juliopdata/Jepeter-Reverse-face-searching/blob/master/static/logo.png"></p>
+  <p align="center"> <img  src="https://github.com/Juliopdata/Jepeter-Reverse-face-searching/blob/master/static/logo.png" width="600"></p>
 
   ----
 ## Description
@@ -12,6 +12,9 @@ Face recognition performance is evaluated with the [LFW dataset](http://vis-www.
 
 Detect, transform, and crop faces on input images, use the autoencoder to extract 128-dimensional representations, or embeddings, of faces from the aligned input images compare input embedding vectors to labeled embedding vectors in a database.
 
+
+<p align="center"> <img  src="https://github.com/Juliopdata/Jepeter-Reverse-face-searching/blob/master/graphics/modelloss.png" width="400"></p>
+
 ## Used tools
 
 For Jepeter to be built, these are the tools I used:
@@ -20,4 +23,4 @@ For Jepeter to be built, these are the tools I used:
 - **Html** for the web interface
 - **Flask** for the interactive interface
 
-<p align="center"> <img  src="https://github.com/Juliopdata/Jepeter-Reverse-face-searching/blob/master/static/logo.png"></p>
+<p align="center"> <img  src="https://github.com/Juliopdata/Jepeter-Reverse-face-searching/blob/master/graphics/mush.png" width="400"></p>
