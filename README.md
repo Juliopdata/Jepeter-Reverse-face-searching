@@ -1,4 +1,4 @@
-# <p align="center"> Api Sentiment Chat Analyzer </p>
+# <p align="center"> Jepeter </p>
 
 
   <p align="center"> <img  src="https://github.com/Juliopdata/Jepeter-Reverse-face-searching/blob/master/static/logo.png"></p>
@@ -12,6 +12,12 @@ Face recognition performance is evaluated with the [LFW dataset](http://vis-www.
 
 Detect, transform, and crop faces on input images, use the autoencoder to extract 128-dimensional representations, or embeddings, of faces from the aligned input images compare input embedding vectors to labeled embedding vectors in a database.
 
-## Goals and steps
+## Used tools
 
-- My main goal is 
+For Jepeter to be built, these are the tools I used:
+- **OpenCV** to frame the faces and for image processing
+- **Keras** (**Tensorflow**) allows us to stack layers of different types to create a deep neural network 
+- **Html** for the web interface
+- **Flask** for the interactive interface
+
+<p align="center"> <img  src="https://github.com/Juliopdata/Jepeter-Reverse-face-searching/blob/master/static/logo.png"></p>
