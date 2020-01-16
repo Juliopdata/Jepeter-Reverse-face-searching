@@ -22,7 +22,7 @@ For Jepeter to be built, these are the tools I used:
 - **Html** for the web interface
 - **Flask** for the interactive interface
 
-<p align="center"> <img  src="https://github.com/Juliopdata/Jepeter-Reverse-face-searching/blob/master/graphics/mush.png" width="400"></p>
+<p align="center"> <img  src="https://github.com/Juliopdata/Jepeter-Reverse-face-searching/blob/master/graphics/mush.png" width="500"></p>
 
 ## Next Steps
 
